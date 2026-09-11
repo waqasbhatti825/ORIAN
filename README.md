@@ -1,2 +1,2 @@
-# ORIAN
+# ORION
 An AI assistant
